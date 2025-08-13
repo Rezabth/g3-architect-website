@@ -258,6 +258,10 @@ align-items: center;
     margin-top: 20px;
     margin-left: 20px;
   }
+  .footer{
+    justify-items: center;
+    
+  }
 
 }
 /*medium size device */
